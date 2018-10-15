@@ -1,0 +1,12 @@
+.validator {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.control-row {
+  margin-top: 20px;
+}
+
+.card.validator {
+  margin: 0;
+}
